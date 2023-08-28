@@ -8,7 +8,7 @@ public class Reprodutor implements ReprodutorMusical{
         System.out.println("Tocando musica");
     }
 
-    @Overrid
+    @Override
     public void pausar() {
         System.out.println("Pause");
     }
